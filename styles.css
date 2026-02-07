@@ -1,0 +1,51 @@
+html {
+    border-left: 5px solid lightgray;
+}
+
+
+body {
+    height: 100vh;
+    max-width: 1000px;
+    font-family: sans-serif;
+    margin: auto;
+}
+
+
+header main footer {
+    padding: 1rem 2rem;
+}
+
+h1 {
+    color: tomato;
+}
+
+
+img {
+    width: 100%;
+}
+
+
+nav ul {
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav a {
+    color: lightgray;
+}
+
+
+footer nav a {
+    color: tomato;
+}
+
+
+article h3 {
+    font-size: 2.5em;
+}
+
+article a {
+    margin-left: auto;
+}
